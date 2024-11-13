@@ -1,7 +1,9 @@
-<h1 style="text - align: center;">
-     你好，我是Mr.KKCY
-</h1>
-
+<p align="center">
+  <h3 align="center">⌨️ Readme Typing SVG</h3>
+</p>
+<p align="center">
+  <h2 align="center">你好，我是Mr.KKCY</h2>
+</p>
 - 👋 嘿，我是@MrKKCY
 
 - 🏫 我是一名中国的学生
