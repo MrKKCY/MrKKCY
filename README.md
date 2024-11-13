@@ -7,6 +7,8 @@
 - 🏫 I’m student from China
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrKKCY&theme=highcontrast)](https://git.io/streak-stats)
+
 
 
 
