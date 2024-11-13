@@ -19,44 +19,13 @@
 ```python
 print("hello world")
 ```
-## ✨ Skills
+## 我平时都玩些
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](www.python.org)  
-[![PHP](https://img.shields.io/badge/PHP-#777BB4?style=for-the-badge&logo=PHP&logoColor=white)](#)  
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrKKCY&theme=highcontrast)](https://git.io/streak-stats)
-
-
-
-
-
-<!---
-MrKKCY/MrKKCY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-<h1 style="text - align: center;">
-     Hello I'm Mr.KKCY
-</h1>
-
-- 👋 Hi, I’m @MrKKCY
-
-- 🏫 I’m student from China
-
-
-I'm 18 years old, I'm a programming enthusiast, and my usual language is Python, and there are some other languages, but I'm not familiar with them.
-
-## Pretty much like
-```python
-print("hello world")
-```
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)](#)  
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=PHP&logoColor=white)](#)  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrKKCY&theme=highcontrast)](https://git.io/streak-stats)
-
-
-
 
 
 
