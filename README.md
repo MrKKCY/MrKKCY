@@ -1,9 +1,13 @@
-<p align="center">
+
   <h3 align="center">⌨️ Readme Typing SVG</h3>
 </p>
-<p align="center">
-  <h2 align="center">你好，我是Mr.KKCY</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=%F0%9F%91%8BHello+there!;%F0%9F%92%96Thank+you+for+conming!;%F0%9F%8E%89Hope+you+have+nice+day!)](https://git.io/typing-svg)
 </p>
+<p align="center">
+  <h1 align="center">你好，我是Mr.KKCY</h1>
+</p>
+
+
 - 👋 嘿，我是@MrKKCY
 
 - 🏫 我是一名中国的学生
