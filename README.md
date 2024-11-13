@@ -1,7 +1,8 @@
 
   <h3 align="center">⌨️ Readme Typing SVG</h3>
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=%F0%9F%91%8BHello+there!;%F0%9F%92%96Thank+you+for+conming!;%F0%9F%8E%89Hope+you+have+nice+day!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8BHello+there!;%F0%9F%92%96Thank+you+for+conming!;%F0%9F%8E%89Hope+you+have+nice+day!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <p align="center">
   <h1 align="center">你好，我是Mr.KKCY</h1>
