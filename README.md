@@ -24,8 +24,9 @@ print("hello world")
 [![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)](#)
 [![Steam](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=0B3D8D)](#)
 
+## 前往我的博客
 
-<a href="https://www.mrkkcy.fun" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; font-weight: bold;">前往我的博客</a>
+[![前往我的博客](https://img.shields.io/badge/Mywebsite-3670A0.svg?style=for-the-badge)](https://www.mrkkcy.fun)
         
 </div>
 <div align="center">
