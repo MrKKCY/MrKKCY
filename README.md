@@ -25,7 +25,7 @@ print("hello world")
 [![Steam](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=0B3D8D)](#)
 
 
-<a href='https://www.mrkkcy.fun'><button>前往我的博客</button></a>
+<a href="https://www.mrkkcy.fun" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; font-weight: bold;">前往我的博客</a>
         
 </div>
 <div align="center">
