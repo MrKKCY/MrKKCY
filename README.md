@@ -9,7 +9,6 @@
 
 我今年18周岁，是一名编程兴趣爱好者，我平时常用的语言是python，还有一些其他的语言，只是都不太熟悉。
 
-#### 我还没有自己的博客，因为还没有~~钱~~筹备服务器啦
 
 ## 我的代码水平Belike
 
@@ -26,8 +25,7 @@ print("hello world")
 [![Steam](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=0B3D8D)](#)
 
 
-## 网页项目展示
-春节倒计时: https://www.mrkkcy.fun/new_year/
+<a href='https://www.mrkkcy.fun'><button>前往我的博客</button></a>
         
 </div>
 <div align="center">
