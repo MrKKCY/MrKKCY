@@ -1,23 +1,22 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8BHello+there!;%F0%9F%92%96Thank+you+for+conming!;%F0%9F%8E%89Hope+you+have+nice+day!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋Hello+there!;💻Student+Developer;🐍Python+Enthusiast;✨Nice+to+meet+you!&font=Fira%20Code&center=true&width=420&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
   <h1 align="center">你好，我是Mr.KKCY</h1>
+</div>
 
+---
 
+## 👨‍💻 关于我
 嘿，我是@MrKKCY
-我是一名中国的学生
+我是一名**中国在校学生**，今年18周岁
+一名热爱编程的爱好者，**主攻 Python**，同时略懂 PHP，正在持续学习进步中~
 
-我今年18周岁，是一名编程兴趣爱好者，我平时常用的语言是python，还有一些其他的语言，只是都不太熟悉。
-
-
-## 我的代码水平Belike
-
-
+## 🧾 我的代码水平 Belike
 ```python
+# Hello World
+# 慢慢学习，慢慢变强
 print("hello world")
 ```
-## 我平时都玩些
-
+## 技术栈 & 常用工具
 [![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=Python&logoColor=ffdd54)](#)
 [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)](#)
 
@@ -35,6 +34,8 @@ print("hello world")
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrKKCY&theme=highcontrast)](https://git.io/streak-stats)
 
+</div>
 
-
+<div align="center">
+💡 Keep Coding · Keep Learning
 </div>
